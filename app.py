@@ -1,2 +1,2 @@
-def salutation:
-    return 'hello'
+def salutation():
+    return 'hello from kaolack'
